@@ -1,0 +1,1 @@
+xcopy "C:\wamp\www\*.rar" "E:\LUCAS DE OLIVEIRA\Web" /d /e /c /i /h /r /k /y
